@@ -53,15 +53,15 @@ iPad 5th, 6th, and 7th Gen
 
 <a href="https:https://install.zjailbreak.store/download/18/pro/m/" target="_blank">👉 Download Redensa</a>
 
-<b>Step 2: Install Xookz App Store</b>
+<b>Step 2: Install zJailbreak App Store</b>
 
 1️⃣ Open Device Settings → Tap Profile Download
 
 2️⃣ Enter Device Passcode → Complete Installation
 
-<b>Step 3: Install Redensa from Xookz App Store</b>
+<b>Step 3: Install Redensa from zJailbreak App Store</b>
 
-1️⃣ Open Xookz App Store
+1️⃣ Open zJailbreak App Store
 
 2️⃣ Go to Jailbreak Apps → Tap Redensa
 
