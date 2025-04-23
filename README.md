@@ -14,6 +14,9 @@ Redensa iTerminal jailbreak is compatible with:
 
 ✅ iOS 17 – iOS 18.5 beta
 
+
+✅ Compatble with newly released iOS 18.4.1
+
 ✅ Works on iPhone, iPad, and iPod models listed below.
 
 ## Supported Devices
