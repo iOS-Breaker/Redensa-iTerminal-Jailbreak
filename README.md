@@ -1,6 +1,6 @@
 <h1 align="center"> Redensa-iTerminal-Jailbreak</h1>
 
-Redensa is a semi-jailbreak iTerminal-based tool that allows users to install jailbreak apps, tweaks, and system modifications on iOS 17 – iOS 18.5 beta devices. It provides a command-based interface for app installation, system tweaks, and chatGPT jailbreak prompts.
+Redensa is a semi-jailbreak iTerminal-based tool that allows users to install jailbreak apps, tweaks, and system modifications on iOS 17 – iOS 18.5 beta 4 devices. It provides a command-based interface for app installation, system tweaks, and chatGPT jailbreak prompts.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/9b6ee3d5-f07f-4bbe-910d-5129181fea8a" width="200" height="auto" alt="Image">
@@ -12,7 +12,7 @@ Redensa is a semi-jailbreak iTerminal-based tool that allows users to install ja
 ## Supported iOS Versions
 Redensa iTerminal jailbreak is compatible with:
 
-✅ iOS 17 – iOS 18.5 beta
+✅ iOS 17 – iOS 18.5 beta 4
 
 
 ✅ Compatble with newly released iOS 18.4.1
@@ -98,5 +98,5 @@ Redensa uses command-based installations.
 
 🔹 HackSn0w Jailbreak – Semi-jailbreak supporting iOS 17 – iOS 17.4.1 with Cydia & Sileo.
 
-🔹 Palera1n Virtual Terminal Jailbreak – Online terminal jailbreak for iOS 18 – iOS 18.5 beta.
+🔹 Palera1n Virtual Terminal Jailbreak – Online terminal jailbreak for iOS 18 – iOS 18.5 beta 4.
 
